@@ -1,0 +1,19 @@
+
+.mru{
+    width: 300px;
+    border: 2px solid ;
+    color: transparent;
+}
+.red{
+    background-color: red;
+    height: 50px;
+}.blue{
+    background-color: blue;
+    height: 50px;
+}.yellow{
+    background-color: yellow;
+    height: 50px;
+}.green{
+    background-color: green;
+    height: 50px;
+}

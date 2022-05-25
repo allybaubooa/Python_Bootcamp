@@ -1,0 +1,26 @@
+
+body{
+    background-color: lemonchiffon;
+}
+i{
+    background-color: indianred;
+}
+
+cat{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.post{
+    border-style: solid;
+    border-color: red;
+    color: red;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
